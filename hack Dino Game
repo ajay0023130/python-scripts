@@ -1,0 +1,7 @@
+open inspect 
+open console 
+and write the blow line of code
+
+
+
+Runner.instance_.gameOver = function(){};
